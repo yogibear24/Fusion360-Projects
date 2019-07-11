@@ -1,0 +1,17 @@
+# All files were created in Fusion360 but can be converted to .stl files, which can then be sliced in various software for 3D-printing.
+
+# "Inner_Box" is combined with "Outer_Casing" inside of dual-extrusion for slicing software to create a single part.
+# -> This results in a 3D-printed part embedded in another.
+# Vinyl_Holder has an interference fit within the Outer_Casing to ensure it stays.
+# Vinyl_Disc can fit onto Vinyl_Holder and spin.
+# Vinyl_Reader can also fit onto the Outer_Casing via a hole in the design, but can rotate while stationary in the hole.
+
+# All other parts can simply be processed through slicing software and printed, then the whole Toy_Record_Player can be assembled by hand.
+
+# Final product can be seen here: "https://photos.app.goo.gl/RCesLTQhvM1xMAhHA"
+
+# Inner_Box: "https://a360.co/2LNmHqW"
+# Outer_Casing: "https://a360.co/2XzOx0K"
+# Vinyl_Disc: "https://a360.co/2XzPoyu"
+# Vinyl_Holder: "https://a360.co/2XzPbvc"
+# Vinyl_Reader: "https://a360.co/2LLLA65"
