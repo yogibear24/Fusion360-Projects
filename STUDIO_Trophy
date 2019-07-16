@@ -5,7 +5,6 @@
 # Spin_Medallion can snap in place onto the Extension_Rod, and spin in-place.
 # Tower_Scaffold, Middle_Discus, and Needle_and_Base all fit onto the top portion of the Extension_Rod, and can spin in-place.
 # Before assembling, print two Middle_Discus components (duplicates).
-
 # All parts can simply be processed through slicing software and printed, then the whole STUDIO_Trophy can be assembled by hand.
 
 # Final product can be seen here: ""
