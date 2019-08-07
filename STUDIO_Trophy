@@ -1,26 +1,26 @@
 # All files were created in Fusion360 but can be converted to .stl files, which can then be sliced in various software for 3D-printing.
 
 # Notes
-# Extension_Rod has an interference fit within Base_Stand.
-# Spin_Medallion can snap in place onto the Extension_Rod, and spin in-place.
-# Tower_Scaffold, Middle_Discus, and Needle_and_Base all fit onto the top portion of the Extension_Rod, and can spin in-place.
-# Before assembling, print two Middle_Discus components (duplicates).
-# All parts can simply be processed through slicing software and printed, then the whole STUDIO_Trophy can be assembled by hand.
+Extension_Rod has an interference fit within Base_Stand.
+Spin_Medallion can snap in place onto the Extension_Rod, and spin in-place.
+Tower_Scaffold, Middle_Discus, and Needle_and_Base all fit onto the top portion of the Extension_Rod, and can spin in-place.
+Before assembling, print two Middle_Discus components (duplicates).
+All parts can simply be processed through slicing software and printed, then the whole STUDIO_Trophy can be assembled by hand.
 
 # Final product can be seen here: ""
 
 # Parts
-# Base_Stand: "https://a360.co/32iYHBI"
-# Extension_Rod: "https://a360.co/32gg2uV"
-# Middle_Discus: "https://a360.co/32gg3Pv"
-# Needle_and_Base: "https://a360.co/32c8WHQ"
-# Spin_Medallion: "https://a360.co/32jjBjX"
-# Tower_Scaffold: "https://a360.co/2XCdOri"
+Base_Stand: "https://a360.co/32iYHBI"
+Extension_Rod: "https://a360.co/32gg2uV"
+Middle_Discus: "https://a360.co/32gg3Pv"
+Needle_and_Base: "https://a360.co/32c8WHQ"
+Spin_Medallion: "https://a360.co/32jjBjX"
+Tower_Scaffold: "https://a360.co/2XCdOri"
 
 # Assembly Instructions
-# 1) With the wider end of the Extension_Rod, fully insert into the hole in Base_Stand, then let stand so the Extension_Rod faces up.
-# 2) With the hollow part of Spin_Medallion, snap onto the thicker portion of Extension_Rod that can be seen.
-# 3) Place the shorter end of Tower_Scaffold facing the ground, through the thinner portion of Extension_Rod.
-# 4) Place the shorter end of Middle_Discus facing the ground, through the thinner portion of Extension_Rod.
-# 5) Place the wider end of another Middle_Discus facing the ground, through the thinner portion of Extension_Rod.
-# 6) Place the wider end of Needle_and_Base facing the ground, through the thinner portion of Extension_Rod.
+1) With the wider end of the Extension_Rod, fully insert into the hole in Base_Stand, then let stand so the Extension_Rod faces up.
+2) With the hollow part of Spin_Medallion, snap onto the thicker portion of Extension_Rod that can be seen.
+3) Place the shorter end of Tower_Scaffold facing the ground, through the thinner portion of Extension_Rod.
+4) Place the shorter end of Middle_Discus facing the ground, through the thinner portion of Extension_Rod.
+5) Place the wider end of another Middle_Discus facing the ground, through the thinner portion of Extension_Rod.
+6) Place the wider end of Needle_and_Base facing the ground, through the thinner portion of Extension_Rod.
